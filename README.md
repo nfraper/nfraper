@@ -1,5 +1,5 @@
 # ¡Hola! Mi nombre es Nerea Francés 👋
-### Junior software engineer
+### Software engineer
 
 <!--
 **nfraper/nfraper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
